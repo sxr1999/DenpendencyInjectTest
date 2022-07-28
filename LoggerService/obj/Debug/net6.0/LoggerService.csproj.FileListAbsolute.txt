@@ -1,0 +1,12 @@
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/bin/Debug/net6.0/LoggerService.deps.json
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/bin/Debug/net6.0/LoggerService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/bin/Debug/net6.0/LoggerService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfoInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfo.cs
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/refint/LoggerService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/LoggerService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll

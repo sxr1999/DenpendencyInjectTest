@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIdkeDIw5cwp02+sVD5s3+/zGqZGWvPwHeVhTYKvEV30/5HSykVl2SJupFhfZbJYzf/siJgqTijC/cGJz3360Q==",
+  "success": true,
+  "projectFilePath": "/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/MailService.csproj",
+  "expectedPackageFiles": [
+    "/Users/shenxinran/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.2-mauipre.1.22102.15/microsoft.extensions.dependencyinjection.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/Users/shenxinran/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.2-mauipre.1.22102.15/microsoft.extensions.dependencyinjection.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/Users/shenxinran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.2-mauipre.1.22102.15/system.runtime.compilerservices.unsafe.6.0.2-mauipre.1.22102.15.nupkg.sha512"
+  ],
+  "logs": []
+}

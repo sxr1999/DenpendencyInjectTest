@@ -1,0 +1,12 @@
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/bin/Debug/net6.0/ConfigureService.deps.json
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/bin/Debug/net6.0/ConfigureService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/bin/Debug/net6.0/ConfigureService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.csproj.AssemblyReference.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.AssemblyInfoInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.AssemblyInfo.cs
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.csproj.CoreCompileInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/refint/ConfigureService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ConfigureService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/ConfigureService/obj/Debug/net6.0/ref/ConfigureService.dll

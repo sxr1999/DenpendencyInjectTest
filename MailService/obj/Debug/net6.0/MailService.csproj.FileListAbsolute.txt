@@ -1,0 +1,17 @@
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/MailService.deps.json
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/MailService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/MailService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/ConfigureService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/LoggerService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/ConfigureService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/bin/Debug/net6.0/LoggerService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.csproj.AssemblyReference.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.AssemblyInfoInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.AssemblyInfo.cs
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.csproj.CoreCompileInputs.cache
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.csproj.CopyComplete
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/refint/MailService.dll
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/MailService.pdb
+/Users/shenxinran/RiderProjects/DenpendencyInjectTest/MailService/obj/Debug/net6.0/ref/MailService.dll

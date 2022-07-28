@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cC4K/bY1WgNXO9YWjk9hVMW6S7aGo9xHYn1HLO0vP8JNN0pEsxZbwsRr/BAr9ETpEqvYPnRxf5qPzqZYs8w87Q==",
+  "success": true,
+  "projectFilePath": "/Users/shenxinran/RiderProjects/DenpendencyInjectTest/DenpendencyInjectTest/DenpendencyInjectTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/shenxinran/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.2-mauipre.1.22102.15/microsoft.extensions.dependencyinjection.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/Users/shenxinran/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.2-mauipre.1.22102.15/microsoft.extensions.dependencyinjection.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/Users/shenxinran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.2-mauipre.1.22102.15/system.runtime.compilerservices.unsafe.6.0.2-mauipre.1.22102.15.nupkg.sha512"
+  ],
+  "logs": []
+}
